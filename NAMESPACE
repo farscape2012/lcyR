@@ -1,4 +1,4 @@
-import(caret, igraph, RColorBrewer, sqldf, gplots, kernlab, FSelector,Vennerable,RColorBrewer)
+import(caret, RORC, igraph, RColorBrewer, sqldf, gplots, pamr, kernlab, FSelector, Vennerable,RColorBrewer)
 #useDynLib(lcyRpkg, .registration=TRUE) dynamic
 
 export(
