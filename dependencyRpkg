@@ -5,4 +5,5 @@ biocLite("RBGL")
 #biocLite("samr")
 # in order to install lcyR, these packages should be installed/updated. 
 
+install.packages("Vennerable", repos="http://R-Forge.R-project.org")
 install.packages(c('rJava', 'igraph','gdata','bitops','caTools','gplots','ROCR','kernlab','plyr','stringr','reshape2','caret','digest','rJava','FSelector','reshape','RColorBrewer',"Vennerable","sqldf","pamr","NMF","lme4"))
